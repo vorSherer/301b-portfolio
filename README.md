@@ -23,6 +23,11 @@ Icons:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 ### Setup
+.gitignore
+Node and npm
+DEPENDENCIES
+    dotenv
+    express
 
 #### `.env` requirements
 * `PORT` - Port Number
